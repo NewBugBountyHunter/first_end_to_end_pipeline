@@ -1,0 +1,13 @@
+#Ambientes virtuais (arquivos pesados do sistema)
+.venv/
+venv/
+ENV/
+__pycache__/
+*.pyc
+
+#segurança e credenciais (lgpd - não subir de jeito nenhum!)
+.env
+
+#arquivos de sistema locais
+.DS_Store
+Thumbs.db

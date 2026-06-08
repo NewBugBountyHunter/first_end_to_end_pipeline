@@ -1,0 +1,902 @@
+[
+    {
+        "id_transacao": "TRX-1489",
+        "cliente_nome": "Carlos Souza",
+        "cliente_cpf": "504.951.204-91",
+        "produto": "Smartphone G5",
+        "categoria": "Eletr\u00f4nicos",
+        "valor": 2535.4439283695747,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-3777",
+        "cliente_nome": "Bruno Alves",
+        "cliente_cpf": "184.667.287-10",
+        "produto": "Smartphone G5",
+        "categoria": "Eletr\u00f4nicos",
+        "valor": 2774.374142708191,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-4077",
+        "cliente_nome": "Ana Costa",
+        "cliente_cpf": "267.984.724-15",
+        "produto": "Notebook Pro",
+        "categoria": "Inform\u00e1tica",
+        "valor": 5103.275290078552,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-1177",
+        "cliente_nome": "Jo\u00e3o Silva",
+        "cliente_cpf": "401.546.960-44",
+        "produto": "Fone Bluetooth",
+        "categoria": "Acess\u00f3rios",
+        "valor": 298.69333052507017,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-6031",
+        "cliente_nome": "Bruno Alves",
+        "cliente_cpf": "560.516.228-84",
+        "produto": "Cadeira Gamer",
+        "categoria": "M\u00f3veis",
+        "valor": 1214.3841069736463,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-7315",
+        "cliente_nome": "Maria Oliveira",
+        "cliente_cpf": "529.828.348-53",
+        "produto": "Cadeira Gamer",
+        "categoria": "M\u00f3veis",
+        "valor": 1059.3825643960745,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-7390",
+        "cliente_nome": "Carlos Souza",
+        "cliente_cpf": "356.879.432-21",
+        "produto": "Smartphone G5",
+        "categoria": "Eletr\u00f4nicos",
+        "valor": 2824.0139923802735,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-4670",
+        "cliente_nome": "Maria Oliveira",
+        "cliente_cpf": "698.177.969-92",
+        "produto": "Cadeira Gamer",
+        "categoria": "M\u00f3veis",
+        "valor": 1151.7201985476738,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-4586",
+        "cliente_nome": "Jo\u00e3o Silva",
+        "cliente_cpf": "833.632.918-63",
+        "produto": "Cadeira Gamer",
+        "categoria": "M\u00f3veis",
+        "valor": 1239.9593343167662,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-3837",
+        "cliente_nome": "Carlos Souza",
+        "cliente_cpf": "637.364.550-32",
+        "produto": "Fone Bluetooth",
+        "categoria": "Acess\u00f3rios",
+        "valor": 245.93112036257426,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-3913",
+        "cliente_nome": "Jo\u00e3o Silva",
+        "cliente_cpf": "529.759.168-43",
+        "produto": "Notebook Pro",
+        "categoria": "Inform\u00e1tica",
+        "valor": 4649.305802949864,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-6521",
+        "cliente_nome": "Jo\u00e3o Silva",
+        "cliente_cpf": "221.260.560-48",
+        "produto": "Fone Bluetooth",
+        "categoria": "Acess\u00f3rios",
+        "valor": 340.6335903687758,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-6049",
+        "cliente_nome": "Bruno Alves",
+        "cliente_cpf": "680.449.115-45",
+        "produto": "Cadeira Gamer",
+        "categoria": "M\u00f3veis",
+        "valor": 1290.233693851785,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-1366",
+        "cliente_nome": "Carlos Souza",
+        "cliente_cpf": "356.997.150-64",
+        "produto": "Cadeira Gamer",
+        "categoria": "M\u00f3veis",
+        "valor": 1420.3288304664604,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-3740",
+        "cliente_nome": "Carlos Souza",
+        "cliente_cpf": "420.774.371-22",
+        "produto": "Notebook Pro",
+        "categoria": "Inform\u00e1tica",
+        "valor": 6127.6156417340635,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-3478",
+        "cliente_nome": "Bruno Alves",
+        "cliente_cpf": "399.723.884-72",
+        "produto": "Fone Bluetooth",
+        "categoria": "Acess\u00f3rios",
+        "valor": 349.445193797834,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-2217",
+        "cliente_nome": "Ana Costa",
+        "cliente_cpf": "350.160.343-20",
+        "produto": "Smartphone G5",
+        "categoria": "Eletr\u00f4nicos",
+        "valor": 2055.8038009802954,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-4464",
+        "cliente_nome": "Jo\u00e3o Silva",
+        "cliente_cpf": "304.280.494-44",
+        "produto": "Cadeira Gamer",
+        "categoria": "M\u00f3veis",
+        "valor": 1039.8390287421862,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-4321",
+        "cliente_nome": "Bruno Alves",
+        "cliente_cpf": "498.655.889-39",
+        "produto": "Smartphone G5",
+        "categoria": "Eletr\u00f4nicos",
+        "valor": 2393.2815540520087,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-3664",
+        "cliente_nome": "Bruno Alves",
+        "cliente_cpf": "286.463.658-21",
+        "produto": "Notebook Pro",
+        "categoria": "Inform\u00e1tica",
+        "valor": 6108.335270149744,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-9226",
+        "cliente_nome": "Ana Costa",
+        "cliente_cpf": "218.362.206-32",
+        "produto": "Fone Bluetooth",
+        "categoria": "Acess\u00f3rios",
+        "valor": 304.6951834752938,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-7345",
+        "cliente_nome": "Bruno Alves",
+        "cliente_cpf": "118.370.917-38",
+        "produto": "Smartphone G5",
+        "categoria": "Eletr\u00f4nicos",
+        "valor": 2697.555993349455,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-1029",
+        "cliente_nome": "Carlos Souza",
+        "cliente_cpf": "433.552.886-55",
+        "produto": "Fone Bluetooth",
+        "categoria": "Acess\u00f3rios",
+        "valor": 291.43900417022724,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-3529",
+        "cliente_nome": "Ana Costa",
+        "cliente_cpf": "548.682.695-76",
+        "produto": "Smartphone G5",
+        "categoria": "Eletr\u00f4nicos",
+        "valor": 2171.095901835348,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-9480",
+        "cliente_nome": "Maria Oliveira",
+        "cliente_cpf": "749.290.654-40",
+        "produto": "Fone Bluetooth",
+        "categoria": "Acess\u00f3rios",
+        "valor": 336.5732889442287,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-8673",
+        "cliente_nome": "Maria Oliveira",
+        "cliente_cpf": "504.897.621-89",
+        "produto": "Notebook Pro",
+        "categoria": "Inform\u00e1tica",
+        "valor": 4749.504627762581,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-6915",
+        "cliente_nome": "Ana Costa",
+        "cliente_cpf": "766.119.581-23",
+        "produto": "Notebook Pro",
+        "categoria": "Inform\u00e1tica",
+        "valor": 6448.743967628779,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-9644",
+        "cliente_nome": "Jo\u00e3o Silva",
+        "cliente_cpf": "361.477.877-96",
+        "produto": "Cadeira Gamer",
+        "categoria": "M\u00f3veis",
+        "valor": 1388.7084043539548,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-7251",
+        "cliente_nome": "Jo\u00e3o Silva",
+        "cliente_cpf": "680.724.542-77",
+        "produto": "Fone Bluetooth",
+        "categoria": "Acess\u00f3rios",
+        "valor": 277.7593072502326,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-3536",
+        "cliente_nome": "Maria Oliveira",
+        "cliente_cpf": "477.963.224-10",
+        "produto": "Smartphone G5",
+        "categoria": "Eletr\u00f4nicos",
+        "valor": 2461.7502143536985,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-3590",
+        "cliente_nome": "Ana Costa",
+        "cliente_cpf": "616.258.701-11",
+        "produto": "Fone Bluetooth",
+        "categoria": "Acess\u00f3rios",
+        "valor": 305.9378716690505,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-6115",
+        "cliente_nome": "Bruno Alves",
+        "cliente_cpf": "780.106.204-79",
+        "produto": "Smartphone G5",
+        "categoria": "Eletr\u00f4nicos",
+        "valor": 2383.6226081157743,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-2854",
+        "cliente_nome": "Maria Oliveira",
+        "cliente_cpf": "246.450.571-67",
+        "produto": "Notebook Pro",
+        "categoria": "Inform\u00e1tica",
+        "valor": 5066.860193087072,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-7318",
+        "cliente_nome": "Maria Oliveira",
+        "cliente_cpf": "921.960.646-48",
+        "produto": "Notebook Pro",
+        "categoria": "Inform\u00e1tica",
+        "valor": 5357.178937372323,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-2749",
+        "cliente_nome": "Maria Oliveira",
+        "cliente_cpf": "285.226.960-38",
+        "produto": "Notebook Pro",
+        "categoria": "Inform\u00e1tica",
+        "valor": 5687.341875883828,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-8001",
+        "cliente_nome": "Ana Costa",
+        "cliente_cpf": "487.945.334-78",
+        "produto": "Cadeira Gamer",
+        "categoria": "M\u00f3veis",
+        "valor": 1270.3912750727352,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-1385",
+        "cliente_nome": "Ana Costa",
+        "cliente_cpf": "928.925.505-13",
+        "produto": "Fone Bluetooth",
+        "categoria": "Acess\u00f3rios",
+        "valor": 331.37901069206947,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-1666",
+        "cliente_nome": "Bruno Alves",
+        "cliente_cpf": "266.554.220-18",
+        "produto": "Smartphone G5",
+        "categoria": "Eletr\u00f4nicos",
+        "valor": 2314.3482686130033,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-4547",
+        "cliente_nome": "Jo\u00e3o Silva",
+        "cliente_cpf": "211.779.970-59",
+        "produto": "Notebook Pro",
+        "categoria": "Inform\u00e1tica",
+        "valor": 4989.073993832023,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-2977",
+        "cliente_nome": "Maria Oliveira",
+        "cliente_cpf": "689.259.470-30",
+        "produto": "Smartphone G5",
+        "categoria": "Eletr\u00f4nicos",
+        "valor": 2070.7388979930265,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-6452",
+        "cliente_nome": "Jo\u00e3o Silva",
+        "cliente_cpf": "408.442.857-13",
+        "produto": "Cadeira Gamer",
+        "categoria": "M\u00f3veis",
+        "valor": 1147.2529153301389,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-4727",
+        "cliente_nome": "Ana Costa",
+        "cliente_cpf": "283.121.838-42",
+        "produto": "Cadeira Gamer",
+        "categoria": "M\u00f3veis",
+        "valor": 1386.9209684447128,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-4649",
+        "cliente_nome": "Ana Costa",
+        "cliente_cpf": "384.101.925-32",
+        "produto": "Smartphone G5",
+        "categoria": "Eletr\u00f4nicos",
+        "valor": 2333.35339150114,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-6723",
+        "cliente_nome": "Maria Oliveira",
+        "cliente_cpf": "463.408.396-91",
+        "produto": "Fone Bluetooth",
+        "categoria": "Acess\u00f3rios",
+        "valor": 336.8300650297782,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-9321",
+        "cliente_nome": "Carlos Souza",
+        "cliente_cpf": "252.750.730-58",
+        "produto": "Fone Bluetooth",
+        "categoria": "Acess\u00f3rios",
+        "valor": 257.05516674751823,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-2073",
+        "cliente_nome": "Ana Costa",
+        "cliente_cpf": "551.505.545-92",
+        "produto": "Notebook Pro",
+        "categoria": "Inform\u00e1tica",
+        "valor": 5926.524055446247,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-9415",
+        "cliente_nome": "Ana Costa",
+        "cliente_cpf": "620.176.145-61",
+        "produto": "Smartphone G5",
+        "categoria": "Eletr\u00f4nicos",
+        "valor": 2312.658112278561,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-9428",
+        "cliente_nome": "Bruno Alves",
+        "cliente_cpf": "375.924.982-15",
+        "produto": "Smartphone G5",
+        "categoria": "Eletr\u00f4nicos",
+        "valor": 2344.2943227748565,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-5993",
+        "cliente_nome": "Ana Costa",
+        "cliente_cpf": "701.392.623-45",
+        "produto": "Smartphone G5",
+        "categoria": "Eletr\u00f4nicos",
+        "valor": 2356.95253853358,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-4108",
+        "cliente_nome": "Maria Oliveira",
+        "cliente_cpf": "905.667.480-23",
+        "produto": "Notebook Pro",
+        "categoria": "Inform\u00e1tica",
+        "valor": 5127.4466825527015,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-3255",
+        "cliente_nome": "Jo\u00e3o Silva",
+        "cliente_cpf": "108.796.119-94",
+        "produto": "Notebook Pro",
+        "categoria": "Inform\u00e1tica",
+        "valor": 5859.180545757669,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-8932",
+        "cliente_nome": "Carlos Souza",
+        "cliente_cpf": "747.338.630-23",
+        "produto": "Cadeira Gamer",
+        "categoria": "M\u00f3veis",
+        "valor": 1413.536419179863,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-1724",
+        "cliente_nome": "Ana Costa",
+        "cliente_cpf": "793.337.601-50",
+        "produto": "Cadeira Gamer",
+        "categoria": "M\u00f3veis",
+        "valor": 1351.9197922342264,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-2044",
+        "cliente_nome": "Maria Oliveira",
+        "cliente_cpf": "639.949.896-26",
+        "produto": "Fone Bluetooth",
+        "categoria": "Acess\u00f3rios",
+        "valor": 257.787437068183,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-6631",
+        "cliente_nome": "Maria Oliveira",
+        "cliente_cpf": "188.947.897-17",
+        "produto": "Fone Bluetooth",
+        "categoria": "Acess\u00f3rios",
+        "valor": 332.2696888424327,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-6696",
+        "cliente_nome": "Maria Oliveira",
+        "cliente_cpf": "429.256.937-17",
+        "produto": "Smartphone G5",
+        "categoria": "Eletr\u00f4nicos",
+        "valor": 2061.476574479392,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-1839",
+        "cliente_nome": "Carlos Souza",
+        "cliente_cpf": "440.817.554-73",
+        "produto": "Notebook Pro",
+        "categoria": "Inform\u00e1tica",
+        "valor": 6387.851365559809,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-5944",
+        "cliente_nome": "Jo\u00e3o Silva",
+        "cliente_cpf": "136.881.455-76",
+        "produto": "Notebook Pro",
+        "categoria": "Inform\u00e1tica",
+        "valor": 5525.990505078629,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-6848",
+        "cliente_nome": "Jo\u00e3o Silva",
+        "cliente_cpf": "887.989.748-99",
+        "produto": "Cadeira Gamer",
+        "categoria": "M\u00f3veis",
+        "valor": 1324.3075075155543,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-1921",
+        "cliente_nome": "Maria Oliveira",
+        "cliente_cpf": "203.246.933-57",
+        "produto": "Smartphone G5",
+        "categoria": "Eletr\u00f4nicos",
+        "valor": 2302.64454827018,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-6728",
+        "cliente_nome": "Carlos Souza",
+        "cliente_cpf": "905.750.824-85",
+        "produto": "Smartphone G5",
+        "categoria": "Eletr\u00f4nicos",
+        "valor": 2337.090503984459,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-1661",
+        "cliente_nome": "Carlos Souza",
+        "cliente_cpf": "399.655.212-46",
+        "produto": "Smartphone G5",
+        "categoria": "Eletr\u00f4nicos",
+        "valor": 2792.8193000441797,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-5524",
+        "cliente_nome": "Bruno Alves",
+        "cliente_cpf": "847.160.993-14",
+        "produto": "Notebook Pro",
+        "categoria": "Inform\u00e1tica",
+        "valor": 6082.802616864838,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-4472",
+        "cliente_nome": "Bruno Alves",
+        "cliente_cpf": "576.681.485-93",
+        "produto": "Notebook Pro",
+        "categoria": "Inform\u00e1tica",
+        "valor": 6594.687880736311,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-3228",
+        "cliente_nome": "Ana Costa",
+        "cliente_cpf": "626.122.951-85",
+        "produto": "Fone Bluetooth",
+        "categoria": "Acess\u00f3rios",
+        "valor": 317.8218223505069,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-5921",
+        "cliente_nome": "Bruno Alves",
+        "cliente_cpf": "401.451.699-62",
+        "produto": "Notebook Pro",
+        "categoria": "Inform\u00e1tica",
+        "valor": 5589.72890305047,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-2750",
+        "cliente_nome": "Ana Costa",
+        "cliente_cpf": "309.173.628-35",
+        "produto": "Fone Bluetooth",
+        "categoria": "Acess\u00f3rios",
+        "valor": 280.88222838837066,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-5049",
+        "cliente_nome": "Jo\u00e3o Silva",
+        "cliente_cpf": "889.305.582-45",
+        "produto": "Fone Bluetooth",
+        "categoria": "Acess\u00f3rios",
+        "valor": 280.732840828325,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-5512",
+        "cliente_nome": "Bruno Alves",
+        "cliente_cpf": "645.146.218-72",
+        "produto": "Fone Bluetooth",
+        "categoria": "Acess\u00f3rios",
+        "valor": 337.22535004124006,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-7458",
+        "cliente_nome": "Maria Oliveira",
+        "cliente_cpf": "700.399.996-76",
+        "produto": "Notebook Pro",
+        "categoria": "Inform\u00e1tica",
+        "valor": 4539.535559811585,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-3285",
+        "cliente_nome": "Carlos Souza",
+        "cliente_cpf": "845.707.788-49",
+        "produto": "Fone Bluetooth",
+        "categoria": "Acess\u00f3rios",
+        "valor": 345.4987887227158,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-5611",
+        "cliente_nome": "Jo\u00e3o Silva",
+        "cliente_cpf": "472.284.945-93",
+        "produto": "Fone Bluetooth",
+        "categoria": "Acess\u00f3rios",
+        "valor": 343.92305802077624,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-1088",
+        "cliente_nome": "Ana Costa",
+        "cliente_cpf": "139.536.383-28",
+        "produto": "Smartphone G5",
+        "categoria": "Eletr\u00f4nicos",
+        "valor": 2710.743326660638,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-4945",
+        "cliente_nome": "Ana Costa",
+        "cliente_cpf": "854.511.413-34",
+        "produto": "Cadeira Gamer",
+        "categoria": "M\u00f3veis",
+        "valor": 1212.85212766065,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-8023",
+        "cliente_nome": "Bruno Alves",
+        "cliente_cpf": "920.194.858-34",
+        "produto": "Fone Bluetooth",
+        "categoria": "Acess\u00f3rios",
+        "valor": 334.91881429230625,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-3791",
+        "cliente_nome": "Maria Oliveira",
+        "cliente_cpf": "105.813.357-82",
+        "produto": "Fone Bluetooth",
+        "categoria": "Acess\u00f3rios",
+        "valor": 269.70058913418336,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-9646",
+        "cliente_nome": "Bruno Alves",
+        "cliente_cpf": "825.456.165-80",
+        "produto": "Fone Bluetooth",
+        "categoria": "Acess\u00f3rios",
+        "valor": 281.2313793887592,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-6137",
+        "cliente_nome": "Maria Oliveira",
+        "cliente_cpf": "243.752.572-93",
+        "produto": "Notebook Pro",
+        "categoria": "Inform\u00e1tica",
+        "valor": 6250.037224704887,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-2799",
+        "cliente_nome": "Jo\u00e3o Silva",
+        "cliente_cpf": "737.868.250-13",
+        "produto": "Notebook Pro",
+        "categoria": "Inform\u00e1tica",
+        "valor": 4747.050415364409,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-9192",
+        "cliente_nome": "Carlos Souza",
+        "cliente_cpf": "168.943.986-71",
+        "produto": "Notebook Pro",
+        "categoria": "Inform\u00e1tica",
+        "valor": 4557.510757090105,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-6600",
+        "cliente_nome": "Jo\u00e3o Silva",
+        "cliente_cpf": "936.256.975-95",
+        "produto": "Cadeira Gamer",
+        "categoria": "M\u00f3veis",
+        "valor": 1067.505747635157,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-3044",
+        "cliente_nome": "Carlos Souza",
+        "cliente_cpf": "218.118.849-14",
+        "produto": "Notebook Pro",
+        "categoria": "Inform\u00e1tica",
+        "valor": 4955.131304147212,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-5177",
+        "cliente_nome": "Bruno Alves",
+        "cliente_cpf": "780.636.760-29",
+        "produto": "Smartphone G5",
+        "categoria": "Eletr\u00f4nicos",
+        "valor": 2924.464212411366,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-9380",
+        "cliente_nome": "Carlos Souza",
+        "cliente_cpf": "815.394.394-40",
+        "produto": "Cadeira Gamer",
+        "categoria": "M\u00f3veis",
+        "valor": 1167.0491253734738,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-1841",
+        "cliente_nome": "Carlos Souza",
+        "cliente_cpf": "372.230.719-12",
+        "produto": "Notebook Pro",
+        "categoria": "Inform\u00e1tica",
+        "valor": 5847.603170266702,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-2597",
+        "cliente_nome": "Maria Oliveira",
+        "cliente_cpf": "221.675.232-47",
+        "produto": "Smartphone G5",
+        "categoria": "Eletr\u00f4nicos",
+        "valor": 2860.6921973596227,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-3312",
+        "cliente_nome": "Ana Costa",
+        "cliente_cpf": "426.861.828-41",
+        "produto": "Fone Bluetooth",
+        "categoria": "Acess\u00f3rios",
+        "valor": 269.84799142626514,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-2225",
+        "cliente_nome": "Jo\u00e3o Silva",
+        "cliente_cpf": "525.830.457-60",
+        "produto": "Smartphone G5",
+        "categoria": "Eletr\u00f4nicos",
+        "valor": 2508.9030806760875,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-7227",
+        "cliente_nome": "Jo\u00e3o Silva",
+        "cliente_cpf": "844.308.642-73",
+        "produto": "Fone Bluetooth",
+        "categoria": "Acess\u00f3rios",
+        "valor": 309.8121295442843,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-5112",
+        "cliente_nome": "Carlos Souza",
+        "cliente_cpf": "335.551.271-71",
+        "produto": "Fone Bluetooth",
+        "categoria": "Acess\u00f3rios",
+        "valor": 255.95707163513666,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-6871",
+        "cliente_nome": "Jo\u00e3o Silva",
+        "cliente_cpf": "780.787.456-54",
+        "produto": "Fone Bluetooth",
+        "categoria": "Acess\u00f3rios",
+        "valor": 270.3587809581604,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-4387",
+        "cliente_nome": "Bruno Alves",
+        "cliente_cpf": "622.851.872-38",
+        "produto": "Notebook Pro",
+        "categoria": "Inform\u00e1tica",
+        "valor": 6459.793883411785,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-5115",
+        "cliente_nome": "Jo\u00e3o Silva",
+        "cliente_cpf": "123.647.670-38",
+        "produto": "Notebook Pro",
+        "categoria": "Inform\u00e1tica",
+        "valor": 5622.162367981118,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-1069",
+        "cliente_nome": "Ana Costa",
+        "cliente_cpf": "887.333.528-86",
+        "produto": "Smartphone G5",
+        "categoria": "Eletr\u00f4nicos",
+        "valor": 2261.768467621526,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-6489",
+        "cliente_nome": "Carlos Souza",
+        "cliente_cpf": "237.100.892-25",
+        "produto": "Smartphone G5",
+        "categoria": "Eletr\u00f4nicos",
+        "valor": 2391.9017102122457,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-2212",
+        "cliente_nome": "Maria Oliveira",
+        "cliente_cpf": "496.726.929-17",
+        "produto": "Fone Bluetooth",
+        "categoria": "Acess\u00f3rios",
+        "valor": 355.3511168104882,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-7203",
+        "cliente_nome": "Carlos Souza",
+        "cliente_cpf": "975.903.401-75",
+        "produto": "Fone Bluetooth",
+        "categoria": "Acess\u00f3rios",
+        "valor": 278.9860260737763,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-2736",
+        "cliente_nome": "Maria Oliveira",
+        "cliente_cpf": "586.843.411-26",
+        "produto": "Cadeira Gamer",
+        "categoria": "M\u00f3veis",
+        "valor": 1101.7983016697674,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-7429",
+        "cliente_nome": "Carlos Souza",
+        "cliente_cpf": "482.648.329-65",
+        "produto": "Cadeira Gamer",
+        "categoria": "M\u00f3veis",
+        "valor": 1073.5528708326822,
+        "data_venda": "2026-02-22 18:43:58"
+    },
+    {
+        "id_transacao": "TRX-6475",
+        "cliente_nome": "Ana Costa",
+        "cliente_cpf": "112.257.700-66",
+        "produto": "Cadeira Gamer",
+        "categoria": "M\u00f3veis",
+        "valor": 1025.6684871826985,
+        "data_venda": "2026-02-22 18:43:58"
+    }
+]
