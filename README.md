@@ -1,3 +1,11 @@
+# 📊 Pipeline de Dados End-to-End com Dashboard de Vendas
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://firstendtoendpipeline-rtrtimybzfeu3i8tprsod8.streamlit.app)
+
+> 🔗 **Link direto para o projeto em produção:** [Acessar Dashboard Online](https://firstendtoendpipeline-rtrtimybzfeu3i8tprsod8.streamlit.app)
+
+---
+
 # 📊 First End-to-End Data Pipeline & Analytics Dashboard
 
 Select your language / Selecione o idioma:
