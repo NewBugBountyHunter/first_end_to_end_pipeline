@@ -82,9 +82,7 @@ psutil==7.1.0
 pure_eval==0.2.3
 py4j==0.10.9.5
 pyarrow==20.0.0
-pyenv-win==3.1.1
 Pygments==2.19.2
-pylance==0.31.0
 pyparsing==3.2.3
 pypresence==4.3.0
 pyproject_hooks==1.2.0
@@ -92,7 +90,6 @@ pyspark==3.3.2
 python-dateutil==2.9.0.post0
 python-slugify==8.0.4
 pytz==2025.2
-pywin32==311
 pywin32-ctypes==0.2.3
 PyYAML==6.0.2
 pyzmq==27.1.0
